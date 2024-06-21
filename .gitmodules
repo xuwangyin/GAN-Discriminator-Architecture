@@ -1,0 +1,12 @@
+[submodule "stargan-v2"]
+	path = stargan-v2
+	url = https://github.com/clovaai/stargan-v2.git
+[submodule "stylegan2-ada-pytorch"]
+	path = stylegan2-ada-pytorch
+	url = https://github.com/NVlabs/stylegan2-ada-pytorch.git
+[submodule "GAN_stability"]
+	path = GAN_stability
+	url = https://github.com/LMescheder/GAN_stability.git
+[submodule "edm"]
+	path = edm
+	url = https://github.com/NVlabs/edm.git
